@@ -1,3 +1,10 @@
+# [1.1.0-develop.3](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.1.0-develop.2...v1.1.0-develop.3) (2021-05-18)
+
+
+### Features
+
+* **test:** test without sync back ([59b8516](https://github.com/SpikeVlg/sem_ver_develop_test/commit/59b8516159a8be316b61b92df1ce7728c49d4067))
+
 # [1.1.0-develop.2](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.1.0-develop.1...v1.1.0-develop.2) (2021-05-18)
 
 
