@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.0.1...v1.0.2) (2021-05-18)
+
+
+### Bug Fixes
+
+* **test:** another fix ([eb7c4ec](https://github.com/SpikeVlg/sem_ver_develop_test/commit/eb7c4ec17c0d916734e93b715b8bcd61868f4e42))
+
 ## [1.0.1](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.0.0...v1.0.1) (2021-05-18)
 
 
