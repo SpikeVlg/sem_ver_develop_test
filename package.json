@@ -26,11 +26,6 @@
         "name": "develop",
         "prerelease": true,
         "channel": "develop"
-      },
-      {
-        "name": "feature/.*",
-        "prerelease": true,
-        "channel": "${name}"
       }
     ],
     "plugins": [
