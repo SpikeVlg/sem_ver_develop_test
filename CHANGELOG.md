@@ -1,3 +1,23 @@
+# [1.4.0-develop.7](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.4.0-develop.6...v1.4.0-develop.7) (2021-05-19)
+
+
+### Features
+
+* **test:** aaaa ([1d8d01c](https://github.com/SpikeVlg/sem_ver_develop_test/commit/1d8d01c074e787d54276fdeba485266fde530481))
+
+
+
+
+
+-n "1.4.0-develop.7" 
+"test"
+test.bat
+1.4.0-develop.7
+3
+1621426596264
+ECHO is off.
+ECHO is off.
+
 # [1.4.0](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.4.0-develop.4...v1.4.0-develop.5) (2021-05-19)
 
 
