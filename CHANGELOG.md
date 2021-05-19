@@ -1,3 +1,23 @@
+# [1.4.0-develop.3](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.4.0-develop.2...v1.4.0-develop.3) (2021-05-19)
+
+
+### Features
+
+* **test:** return plugins ([2d2cc1d](https://github.com/SpikeVlg/sem_ver_develop_test/commit/2d2cc1d9a3fbc1a16cfd039c858ce1081a91decd))
+
+
+
+
+
+-n "1.4.0-develop.3" 
+"test"
+test.bat
+1.4.0-develop.3
+1
+1621417270629
+ECHO is off.
+ECHO is off.
+
 # [1.4.0-develop.1](https://github.com/SpikeVlg/sem_ver_develop_test/compare/v1.3.0...v1.4.0-develop.1) (2021-05-18)
 
 
